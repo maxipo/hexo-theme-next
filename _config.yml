@@ -96,6 +96,15 @@ open_graph:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
+<<<<<<< HEAD
+  APS-Config: /aps-config
+  API(含電文): /api
+  常用資訊: /frequently-used-info
+  工作事項: /to-do-list
+=======
+  買啥呢: /girl-buy
+  吃吃喝喝: /places-to-go
+>>>>>>> e956751d (update _config.yml)
   #home: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
