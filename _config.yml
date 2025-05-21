@@ -247,18 +247,16 @@ footer:
 # Use `description` in front-matter to specify post excerpt.
 excerpt_description: true
 
+# Post meta display settings
+post_meta:
+  item_text: false
+  created_at: false
+  updated_at: false
+  time: false
+
 # Read more button
 # If true, the read more button will be displayed in excerpt section.
 read_more_btn: true
-
-# Post meta display settings
-post_meta:
-  item_text: true
-  created_at: true
-  updated_at:
-    enable: true
-    another_day: true
-  categories: true
 
 # Post wordcount display settings
 # Dependencies: https://github.com/next-theme/hexo-word-counter
