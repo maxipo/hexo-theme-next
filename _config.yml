@@ -96,8 +96,9 @@ open_graph:
 # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
 # External url should start with http:// or https://
 menu:
-  買東西: /girl-buy
-  吃吃喝喝: /places-to-go
+  GoldDigger: /girl-buy
+  WhereToGo: /places-to-go
+  Omiyage: /omiyage
   #home: / || fa fa-home
   #about: /about/ || fa fa-user
   #tags: /tags/ || fa fa-tags
